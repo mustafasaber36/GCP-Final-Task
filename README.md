@@ -2,7 +2,7 @@
 Deploying Python App on GKE Created by Terraform
 # Deploy Python App on GCP Using Kubernetes
 ## The Used Tools
- - Terraform , Docker , Kubernetes
+ - Terraform , Docker , Kubernetes , GCP
 
 ## The Provisioned Infastructure: 
 
