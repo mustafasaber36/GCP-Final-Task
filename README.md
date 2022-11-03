@@ -34,7 +34,7 @@ $ sudo apt-get install kubectl
 ```bash
 $ docker build --tag project:python .
 ```
-### 5) Pushing the deockerized python image with redis image into GCR as aprivate images 
+### 5) Pushing the dockerized python image with redis image into GCR as aprivate images 
 ```bash
 $ docker pull redis
 $ docker tag redis gcr.io/moustafa-saber-project/redis:latest
