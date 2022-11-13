@@ -10,7 +10,7 @@ Deploying Python App on GKE Created by Terraform
 - Router , Firewall Rule , Private VM , Private GKE Cluster 
 
 ## Steps:
-### 1) Apply the infrastructure Using Terraform 
+### 1) Provisioning the infrastructure Using Terraform 
 ```bash
 $ terraform apply --var-file prod.tfvars
 ```
